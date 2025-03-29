@@ -1,4 +1,4 @@
-This is an ESP32 version of the DIY Machines LED Clock Shelf with ESPHome support.  If you're not familiar with ESPHome, please familiarize yourself with how it works at https://esphome.io/
+This is an ESP32 version of the DIY Machines LED Clock Shelf with ESPHome support for Home Assistant integration.  If you're not familiar with ESPHome, please familiarize yourself with how it works at https://esphome.io/
 
 There are some difference from the DIY Machines version you will need to be aware of:
 - This version uses ESP32, not Arduino.
